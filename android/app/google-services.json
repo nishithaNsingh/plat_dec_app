@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8995605723",
+    "project_id": "plat-72134",
+    "storage_bucket": "plat-72134.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8995605723:android:ffeb167bd8dedde99590fe",
+        "android_client_info": {
+          "package_name": "com.example.plat_dec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVK9pWcsmzxKMOHmJhAnVk4xfWrslAFlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
